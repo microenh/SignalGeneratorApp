@@ -1,5 +1,6 @@
 # Two Tone Generator
 ![Screen Shot](./images/ScreenShot.png)
+
 This program generates an audio signal consisting of two tones, 700Hz and 1900Hz.
 
 These tones can be used to check for IMD and other distortions.
